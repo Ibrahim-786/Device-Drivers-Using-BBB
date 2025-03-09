@@ -1,0 +1,1 @@
+cmd_/home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/002pseudo_char_driver/modules.order := {   echo /home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/002pseudo_char_driver/pcd.ko; :; } | awk '!x[$$0]++' - > /home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/002pseudo_char_driver/modules.order

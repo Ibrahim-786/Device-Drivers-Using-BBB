@@ -1,0 +1,1 @@
+savedcmd_/home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/001hello_world/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/001hello_world/Module.symvers -T /home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/001hello_world/modules.order -i Module.symvers -e 

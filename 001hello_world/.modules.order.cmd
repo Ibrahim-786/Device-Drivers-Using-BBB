@@ -1,0 +1,1 @@
+savedcmd_/home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/001hello_world/modules.order := {   echo /home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/001hello_world/main.o; :; } > /home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/001hello_world/modules.order

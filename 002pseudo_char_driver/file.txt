@@ -1,0 +1,12 @@
+[21052.958161] pcd_driver_init : Device number <major>:<minor> = 239:0
+[21052.958296] pcd_driver_init : Module init was successful
+[21066.907059] pcd_open : open was successful
+[21066.907074] pcd_read : Read requested for 131072 bytes 
+[21066.907076] pcd_read : Current file position = 0
+[21066.907079] pcd_read : Number of bytes successfully read = 512
+[21066.907081] pcd_read : Updated file position = 512
+[21066.907093] pcd_read : Read requested for 131072 bytes 
+[21066.907095] pcd_read : Current file position = 512
+[21066.907096] pcd_read : Number of bytes successfully read = 0
+[21066.907097] pcd_read : Updated file position = 512
+[21066.907112] pcd_release : release was successful

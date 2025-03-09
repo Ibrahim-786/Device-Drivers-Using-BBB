@@ -1,0 +1,1 @@
+cmd_/home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/002pseudo_char_driver/Module.symvers := sed 's/ko$$/o/' /home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/002pseudo_char_driver/modules.order | scripts/mod/modpost -m    -o /home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/002pseudo_char_driver/Module.symvers -e -i Module.symvers   -T -

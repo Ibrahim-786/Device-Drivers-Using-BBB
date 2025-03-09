@@ -1,0 +1,1 @@
+savedcmd_/home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/001hello_world/main.mod := printf '%s\n'   main.o | awk '!x[$$0]++ { print("/home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/001hello_world/"$$0) }' > /home/vm/Linux-DD-BBB/workspace/ldd/Device-Drivers-Using-BBB/001hello_world/main.mod
